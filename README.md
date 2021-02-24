@@ -53,7 +53,7 @@ This WebP Optimized Images solution is not only a must-have for your website per
 It is also low cost and low-risk solution as it is running 100% locally on-premise, on your server and with no dependencies from 3rd-parties.
 
 <p align="right">
-  <img align="right" width="350" height="350" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/webp-optimized-images-magento/webp-conversion-tools-large.jpg">
+  <img align="right" width="350" height="auto" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/webp-optimized-images-magento/webp-conversion-tools-large.jpg">
 </p>
 
 ### How Does The WebP Conversion Work?
@@ -72,7 +72,7 @@ But with JaJuMa WebP Optimized Images also users with browsers without WebP supp
 As a fallback, for these users the "normal" version of your images namely .jpg or .png files will be served automatically.
 
 <p align="center">
-  <img width="647" height="470" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/webp-optimized-images-magento/slider_img/cwebp-extension-browser-support-x2.jpg">
+  <img width="647" height="auto" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/webp-optimized-images-magento/slider_img/cwebp-extension-browser-support-x2.jpg">
 </p>
 
 ## [Magento 2 WebP Optimized Images Extension Demo](https://demo.extension.jajuma.de/)
@@ -89,7 +89,7 @@ Customer Login: roni_cost@example.com / roni_cost3@example.com
 * [WebP Images FAQ](https://www.jajuma.de/en/jajuma-develop/extensions/webp-optimized-images-extension-for-magento-2/webp-images-faq)
 
 
-## Other [Magento 2 Extensions](ttps://www.jajuma.de/jajuma-develop) by [JaJuMa](https://www.jajuma.de/)
+## Other [Magento 2 Extensions](https://www.jajuma.de/jajuma-develop) by [JaJuMa](https://www.jajuma.de/)
 
   * :framed_picture: Performance & UX:<br>[Ultimate Image Optimizer for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/ultimate-image-optimizer-extension-for-magento-2)<br>
    AVIF & WebP Images, Lazy Loading, High-Resolution / Retina images
