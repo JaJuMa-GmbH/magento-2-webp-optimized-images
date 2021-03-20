@@ -1,0 +1,25 @@
+{
+  "name": "jajuma/magento-2-webp-optimized-images",
+  "description": "Magento 2 WebP Optimized Images",
+    "type": "magento2-module",
+    "license": "MIT",
+    "version": "1.0.0",
+    "homepage": "https://www.jajuma.de/en/jajuma-develop/extensions/webp-optimized-images-extension-for-magento-2",
+  "authors": [
+    {
+      "name": "JaJuMa",
+      "email": "info@jajuma.de",
+      "homepage": "https://www.jajuma.de"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jajuma\\WebpImages\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
