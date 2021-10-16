@@ -75,13 +75,7 @@ As a fallback, for these users the "normal" version of your images namely .jpg o
   <img width="647" height="auto" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/webp-optimized-images-magento/slider_img/cwebp-extension-browser-support-x2.jpg">
 </p>
 
-## [Magento 2 WebP Optimized Images Extension Demo](https://demo.extension.jajuma.de/)
-
-* [Demo Backend](https://demo.extension.jajuma.de/admin)<br>
-Admin Login: demo / demo123
-
-* [Demo Frontend](https://demo.extension.jajuma.de/customer/account/login/)<br>
-Customer Login: roni_cost@example.com / roni_cost3@example.com
+## [Magento 2 WebP Optimized Images Extension Demo](https://www.jajuma.de/en/jajuma-shop/demo-shop-with-magento-2)
 
 ## Documentation
 
@@ -89,7 +83,7 @@ Customer Login: roni_cost@example.com / roni_cost3@example.com
 * [WebP Images FAQ](https://www.jajuma.de/en/jajuma-develop/extensions/webp-optimized-images-extension-for-magento-2/webp-images-faq)
 
 
-## Other [Magento 2 Extensions](https://www.jajuma.de/jajuma-develop) by [JaJuMa](https://www.jajuma.de/)
+## Other [Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop/magento-extensions) by [JaJuMa](https://www.jajuma.de/)
 
   * :framed_picture: Performance & UX:<br>[Ultimate Image Optimizer for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/ultimate-image-optimizer-extension-for-magento-2)<br>
    AVIF & WebP Images, Lazy Loading, High-Resolution / Retina images
@@ -108,29 +102,34 @@ Customer Login: roni_cost@example.com / roni_cost3@example.com
   
   * :rocket: Performance & UX:<br>[Page Preload for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/page-preload-extension-for-magento-2)<br>
   Faster faster page transitions and subsequent page-loads by preloading / prefetching
-  
+
   * :chart_with_upwards_trend: Marketing:<br>[Matomo Analytics for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/honey-spam-anti-spam-extension-for-magento-2)<br>
   Web Analytics - GDPR Compliant
 
   * :honey_pot: Site Optimization:<br>[Honey Spam Anti-Spam for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/honey-spam-anti-spam-extension-for-magento-2)<br>
   Spam Protection - Reliable & GDPR Compliant
-  
+
   * :bell: Marketing:<br>[Customer Registration Reminder & Cleanup for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/customer-registration-reminder-and-cleanup-extension-for-magento-2)<br>
   Increase Your Customer Engangement & Cleanup your Customer Account Data Automatically
   
-
 ## Other [Services](https://www.jajuma.de/en/jajuma/company-magento-ecommerce-agency-stuttgart) by [JaJuMa](https://www.jajuma.de/)
 
   * :shopping: [JaJuMa-Market: Marketplace Software](https://www.jajuma.de/en/jajuma-market)<br>
    Complete Online Marketplace Software Solution. For Professional Demands. Feature Rich. Flexibly Customizable.
    
   * :shopping_cart: [JaJuMa-Shop](https://www.jajuma.de/en/jajuma-shop)<br>
-   Customized Magento Shop Solutions.   
+   Customized Magento Shop Solutions.
+
+  * :rocket: [JaJuMa-Shop: Hyvä Magento Shop Development](https://www.jajuma.de/de/jajuma-shop/online-shop-mit-magento-2-und-hyva-themes)<br>
+   Hyvä Magento Shop Development.
+   
+  * :orange_book: [JaJuMa-Shop: Magento Handbuch in Deutsch](https://www.jajuma.de/de/jajuma-shop/magento-2-handbuch/)<br>
+   Magento Handbuch in Deutsch.    
    
   * :card_index_dividers: [JaJuMa-PIM](https://www.jajuma.de/en/jajuma-pim)<br>
    Product Information Management. Simple. Better.
 
-  * :heavy_plus_sign: [JaJuMa-Develop: Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop)<br>
+  * :heavy_plus_sign: [JaJuMa-Develop: Magento 2 Extensions](https://www.jajuma.de/en/jajuma-develop/magento-extensions)<br>
    Individual Solutions For Your Business Case.    
    
   * :paintbrush: [JaJuMa-Design](https://www.jajuma.de/en/jajuma-design)<br>
